@@ -12,3 +12,6 @@ By the end of the course, students will:
 - Learn programming techniques for microcontrollers and embedded processors.
 - Gain hands-on experience with development tools and debugging methods.
 - Develop real-world applications using microprocessor-based platforms.
+
+## Testcase
+Testcase 1
